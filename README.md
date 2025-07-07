@@ -23,17 +23,17 @@ Welcome to my coding journey! I’m passionate about turning ideas into code and
 
 🎯 I'm a **Junior Front-End Engineer** passionate about building responsive and modern web applications.
   
-💡 Currently learning advanced **JavaScript**, **TypeScript**, **React**.
+💡 Currently learning advanced **JavaScript**, **node.js**, **React**.
   
-🌍 Based in Egypt 🇪🇬, and I'm always curious to learn more about new web technologies and cybersecurity!
+🌍 Based in Egypt 🇪🇬, and I'm always curious to learn more about new web technologies and ps!
 
 🏫 University: Faculty of Computers & Ai Banha University.
 
-🎯 Goal:  Goal: Become a professional software engineer and Problem solving specialist.
+🎯 Goal:Become a professional software engineer and Problem solving specialist.
 
 💻 Hobbies: Programming – Reading – Learning Technology.
 
-🧠 Skills: Self-learning – Analytical Thinking .
+🧠 Skills: Self-learning – Analytical Thinking.
 
 
 ---
@@ -43,6 +43,7 @@ Currently focused on:
 - 🎨 Frontend development (HTML, CSS, JavaScript, React.js)
 
 **I believe in continuous learning, practice, and real-world projects.**  
+
 🚀 Open to collaborations, projects, and new challenges.
 
 ## 📚 Current Learning Path:
