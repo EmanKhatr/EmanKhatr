@@ -1,5 +1,5 @@
 
-<h1 align="center">I'm Eman Khater 👋</h1>
+<h1 align="center">Hi, I'm Eman Khater 👋</h1>
 
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmoxcGozbnU1MmJnZWpxd2FsM2ljeWI0ZjZtZHZiNHlrNjI3bXZzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" width="300" alt="Coding gif"/>
@@ -31,13 +31,14 @@ Welcome to my coding journey! I’m passionate about turning ideas into code and
 
 🎯 Goal:Become a professional software engineer and Problem solving specialist.
 
-💻 Hobbies: Programming – Reading – Learning Technology.
+💻 Hobbies: Programming – Reading – Learning Technology – sports.
 
-🧠 Skills: Self-learning – Analytical Thinking.
+🧠 Skills: Self-learning – Analytical Thinking – Teaching kids.
 
 
 ---
 **Learning programming and growing my skills step-by-step.**  
+
 Currently focused on:
 
 - 🎨 Frontend development (HTML, CSS, JavaScript, React.js)
